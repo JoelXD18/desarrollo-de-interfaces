@@ -66,4 +66,4 @@ print(saludo)
 esto es una seccion de ejemplo para enlace interno 
 
 ## Imágenes
-![Gatetes |](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNrF1Xji6sDRPdJDIEEQu4T5IwfAYIEcJsxg&s)
+![Gatetes |](https://cdn-icons-png.flaticon.com/512/25/25231.png)
