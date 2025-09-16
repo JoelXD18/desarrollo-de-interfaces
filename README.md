@@ -61,3 +61,9 @@ Y esto es un ejemplo de codigo en Python:
 saludo= 'Hola Mundo'
 print(saludo)
 ```
+
+## Claramente 
+esto es una seccion de ejemplo para enlace interno 
+
+## Imágenes
+![Gatetes |](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNrF1Xji6sDRPdJDIEEQu4T5IwfAYIEcJsxg&s)
