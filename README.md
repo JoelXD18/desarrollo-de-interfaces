@@ -67,3 +67,44 @@ esto es una seccion de ejemplo para enlace interno
 
 ## Imágenes
 ![Gatetes |](https://cdn-icons-png.flaticon.com/512/25/25231.png)
+
+## Mencion
+@JoelXD18
+
+---
+
+## Nota al pie
+
+Enlazo una nota al pie [^1]
+Enlazo otra nota al pie
+[^1] Esta es la nota al pie
+
+[^nota] Esta es otra nota al pie 
+
+---
+
+## Tablas
+
+| Alineado Izquierda | Alineado Medio | Alineado Derecha | 
+| :--- | :---: | ---: |
+| Dato 1 | Dato 2 | Dato 3 |
+| Dato 4 | Dato 5 | Dato 6 |
+
+<details>
+  <summary>Este es el resumen de la seccion desplegable</summary>
+  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+</details>
+
+<details><summary>¿Cual sintaxis de python para imprimir por pantalla?</summary>
+```python
+print('Hola')
+```
+</details>
+
+```mermaid
+graph TD;
+A-->B;
+A-->C;
+B-->D;
+C-->D;
+```
