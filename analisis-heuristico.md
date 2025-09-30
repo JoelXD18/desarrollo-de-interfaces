@@ -30,4 +30,4 @@
 - Este si cuenta con opciones de reconocer, cada vez que te mueves a traves de los menus de hamburguesas, hiperenlaces, etc.. este te vuelve a recordar en que lugar te encuentras, a la vez que a traves de imagenes es intuitivo reconocer en que lugar estas situado.
 
 ## 7. Flexibilidad y eficiencia de uso
-
+- Este no cuenta con interfaces o modos de uso para saltar secuencias que usuarios mas experimentados ya puedan reconocer, a la vez que usuarios menos experimentados deberan informarse a traves de otros medios de las acciones que pueden realizar.
