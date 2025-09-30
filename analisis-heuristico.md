@@ -31,3 +31,13 @@
 
 ## 7. Flexibilidad y eficiencia de uso
 - Este no cuenta con interfaces o modos de uso para saltar secuencias que usuarios mas experimentados ya puedan reconocer, a la vez que usuarios menos experimentados deberan informarse a traves de otros medios de las acciones que pueden realizar.
+
+## 8. Estética y diseño minimalista
+- Muchas veces la informacion se repite en esta web. Desde el home puedes bajar y acceder a eventos a la vez que tambien puedes acceder desde el menu de hamburguesa. Muchas veces esta informacion duplicada sobra, sobrecargas el home y a la vez le pones 7 menus desplegables.
+- 
+## 9. Ayuda al usuario a reconocer, diagnosticar y recuperarse de los errores
+- En cierta parte cumple con ello, ya que la web presenta un error en el apartado de "Otros servicios" despues en "Cita Previa" y despues en "Cita Empleo". Este da un error 443 pero explica el motivo del mismo:
+<img width="1919" height="303" alt="image" src="https://github.com/user-attachments/assets/8b0c9e60-4032-4b7e-988c-f3820588a585" />
+
+## 10. Ayuda y documentación
+- Esta web si cumple con esta regla, presenta campos que explican que elementos se esperan en cada campo.
