@@ -127,3 +127,5 @@ Para ejecutar la aplicación, abre una terminal en la carpeta raíz del proyecto
 cd src
 python main.py
 ```
+<img width="1280" height="364" alt="image" src="https://github.com/user-attachments/assets/72119a02-24d9-48d6-a1da-61e61ac9b01b" />
+
