@@ -28,23 +28,37 @@
 ```bash
 python --version
 ```
-  ## Creacion:
-      ```bash
-      virtualenv entorno
-      ```
+## Creacion:
+```bash
+python -m venv entorno
+```
       
 <img width="1465" height="197" alt="image" src="https://github.com/user-attachments/assets/e5b22609-14f4-4ff1-a409-c50da7510181" />
 
 
 
-  ## Activacion:
-    
-      ```
-      cd entorno/Scripts/
-      activate
-      ```
+## Creacion:
+```bash
+cd entorno/Scripts
+activate
+```
 
   <img width="847" height="134" alt="image" src="https://github.com/user-attachments/assets/a28bb9ed-1af3-42cb-8053-59f26b65733c" />
 
-      
+---
+
+# 5. Instalación de dependencias
+
+## Instalar PySide6
+```bash
+pip install pyside6
+```
+<img width="1294" height="368" alt="image" src="https://github.com/user-attachments/assets/e0f3d719-fb08-4ddd-bb41-9b1f9964834e" />
+
+## Generar el fichero requirements.txt
+
+```bash
+pip freeze > requirements.txt
+```
+<img width="1104" height="30" alt="image" src="https://github.com/user-attachments/assets/02901ffa-dafe-46d7-a4eb-00b35ed38841" />
 
